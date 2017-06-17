@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yong Yuan - Blog</title>
-    <description>On Software Engineering, Lean Startup, Agile and Productivity</description>
-    <link>http://yongyuan.name</link>
+    <title>阿牛 - Blog</title>
+    <description>价值观民粹，用词刻薄，滥用技巧，视角贫瘠</description>
+    <link>http://neo123.me</link>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     {% for post in site.posts limit:25 %}
     <item>
